@@ -3,8 +3,8 @@ import pydirectinput
 import time
 
 delaySecond = 0.05
-x, y = (600, 630)
-xSpace, ySpace = (700, 820)
+x, y = (640, 610)
+xSpace, ySpace = (740, 810)
 
 print('Press Ctrl-C to quit.')
 def keywithdelay(command = "", delay = delaySecond):
